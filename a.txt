@@ -1,11 +1,3 @@
-	adding 
-
-edit file a.txt 
-
-add function 
-	function index(){
-
-
-}
+sd asd asd asd asdaasd 
 
 
