@@ -1,3 +1,6 @@
+
+edit file a.txt 
+
 add function 
 	function index(){
 
