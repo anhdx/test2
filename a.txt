@@ -1,4 +1,5 @@
 dd 
+	adding 
 edit file a.txt 
 
 add function 
