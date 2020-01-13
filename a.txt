@@ -1,2 +1,7 @@
-
 add function 
+	function index(){
+
+
+}
+
+
